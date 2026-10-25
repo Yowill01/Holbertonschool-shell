@@ -14,3 +14,4 @@
 - 11-lists: lists all files, including hidden ones, in long format for the current directory, its parent and /boot.
 - 11-lists: lists all files, including hidden ones, in long format for the current directory, its parent and /boot.
 - 12-file_type: prints the type of the file /tmp/iamafile.
+- 13-symbolic_link: creates a symbolic link named __ls__ to /bin/ls in the current directory.
