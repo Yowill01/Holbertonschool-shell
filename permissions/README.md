@@ -15,3 +15,4 @@
 - 13-change_group: changes the group owner to school for the file hello.
 - 8-James_Bond: sets the permissions of the file hello to no permissions for owner and group, and all permissions for other users.
 - 14-change_owner_and_group: changes the owner to vincent and the group owner to staff for all files and directories in the working directory.
+- 15-symbolic_link_permissions: changes the owner and group owner of the symbolic link _hello to vincent and staff.
