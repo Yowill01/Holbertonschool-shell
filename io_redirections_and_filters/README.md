@@ -20,3 +20,4 @@ This project contains shell scripts about I/O redirection and filters.
 - `13-unique`: takes a list of words (one per line) as input and prints, sorted, only the words that appear exactly once.
 - `14-findthatword`: displays the lines containing the pattern "root" from the file `/etc/passwd`.
 - `15-countthatword`: displays the number of lines that contain the pattern "bin" in the file `/etc/passwd`.
+- `16-whatsnext`: displays the lines containing the pattern "root" and 3 lines after them in the file `/etc/passwd`.
