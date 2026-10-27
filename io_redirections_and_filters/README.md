@@ -12,3 +12,4 @@ This project contains shell scripts about I/O redirection and filters.
 - `5-firstlines`: displays the first 10 lines of `/etc/passwd`.
 - `6-third_line`: displays the third line of the file `iacta`.
 - `7-file`: creates a file named `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` followed by a new line.
+- `8-cwd_state`: writes the result of `ls -la` into the file `ls_cwd_content`, overwriting it if it exists or creating it if it does not.
