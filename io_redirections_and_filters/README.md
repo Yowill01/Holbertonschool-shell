@@ -11,3 +11,4 @@ This project contains shell scripts about I/O redirection and filters.
 - `4-lastlines`: displays the last 10 lines of `/etc/passwd`.
 - `5-firstlines`: displays the first 10 lines of `/etc/passwd`.
 - `6-third_line`: displays the third line of the file `iacta`.
+- `7-file`: creates a file named `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` followed by a new line.
