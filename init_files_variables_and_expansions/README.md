@@ -18,3 +18,4 @@ This project contains shell scripts about init files, variables and expansions.
 - `11-binary_to_decimal`: converts a number from base 2, stored in the environment variable `BINARY`, to base 10, followed by a new line.
 - `12-combinations`: prints all possible combinations of two lowercase letters, in alphabetical order, except `oo`.
 - `13-print_float`: prints the number stored in the environment variable `NUM` with two decimal places, followed by a new line.
+- `14-decimal_to_hexadecimal`: converts a number from base 10, stored in the environment variable `DECIMAL`, to base 16, followed by a new line.
