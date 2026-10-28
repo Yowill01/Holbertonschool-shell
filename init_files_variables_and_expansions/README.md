@@ -17,3 +17,4 @@ This project contains shell scripts about init files, variables and expansions.
 - `10-love_exponent_breath`: displays the result of `BREATH` to the power `LOVE`, followed by a new line.
 - `11-binary_to_decimal`: converts a number from base 2, stored in the environment variable `BINARY`, to base 10, followed by a new line.
 - `12-combinations`: prints all possible combinations of two lowercase letters, in alphabetical order, except `oo`.
+- `13-print_float`: prints the number stored in the environment variable `NUM` with two decimal places, followed by a new line.
